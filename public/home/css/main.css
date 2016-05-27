@@ -1,0 +1,14 @@
+body{
+  background-image: url(http://wallpapercave.com/wp/Zkc7mGk.jpg)
+
+}
+
+.mainpage{
+  padding-top: 100px;
+  text-align: center;
+}
+
+#desc{
+  border-color: black;
+  border-width: 2px;
+}
