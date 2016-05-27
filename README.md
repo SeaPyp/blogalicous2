@@ -18,8 +18,8 @@ $ node server
 ```
 Make sure to run `mongod` or sudo mongod` in a separate terminal window for the database.
 
-Heroku [link]( )
-Trello [link]( )
+Heroku [link](https://blogaliciousnessness.herokuapp.com/)
+Trello [link](https://trello.com/b/uNBW1o2e/project-4)
 
 Issues Encountered:
 3 Party API's and OAuth - managed to overcome some, lost some others.
