@@ -12,13 +12,12 @@ This was a practice app I did over the weekend to go through the steps of puttin
 ####Installation Instructions:
 ```
 $ git clone https://github.com/SeaPyp/blogalicous2
-$ mv mean-starter mean-blog && cd mean-blog
 $ npm install
 $ node server
 ```
-Make sure to run `mongod` or sudo mongod` in a separate terminal window for the database.
+Make sure to run `mongod` or `sudo mongod` in a separate terminal window for the database.
 
-Heroku [link](https://blogaliciousnessness.herokuapp.com/)
+Heroku [link](https://blogaliciousnessness.herokuapp.com/)  
 Trello [link](https://trello.com/b/uNBW1o2e/project-4)
 
 Issues Encountered:
